@@ -1,13 +1,13 @@
 ### UC1 - Inserir TCC
 
-####Pré-condições
+#### Pré-condições
 
-Pós-condição
+#### Pós-condição
 
-Fluxo Principal
+#### Fluxo Principal
 
-Fluxos Alternativos
+#### Fluxos Alternativos
 (caso haja)
 
-Fluxo de Exceção
+#### Fluxo de Exceção
 (caso haja)
