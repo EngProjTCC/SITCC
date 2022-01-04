@@ -29,6 +29,7 @@ actor coordenador as c
 
 u <|-- e
 u <|-- p
+u <|-- c
 
 package SITCC {
   usecase "recuperar senha" as UC1
@@ -62,19 +63,14 @@ package SITCC {
 }
 a --> UC1
 a --> UC2
-e --> UC3
-e --> UC4
-e --> UC5
-e --> UC6
-e --> UC7
+u --> UC3
+u --> UC4
+u --> UC5
+u --> UC6
+u --> UC7
 e --> UC8
 e --> UC9
 e --> UC10
-p --> UC3
-p --> UC4
-p --> UC5
-p --> UC6
-p --> UC7
 p --> UC11
 p --> UC12
 p --> UC13
@@ -82,11 +78,6 @@ p --> UC14
 p --> UC15
 p --> UC16
 p --> UC17
-c --> UC3
-c --> UC4
-c --> UC5
-c --> UC6
-c --> UC7
 c --> UC17
 c --> UC18
 c --> UC19
