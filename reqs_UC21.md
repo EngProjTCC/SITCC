@@ -12,10 +12,12 @@ Ser coordenador estar na visualização de cronogramas de entrega
 3. O coordenador clicka na opção  "adcionar cronograma";
 4. O sistema abre um pop-up com os campos de "dd/mm//yy" e de "evento" para serem preenchidos;
 5. O coordenador preenche os campos e clicka "ok"; 
-6. O sistema diciona este envento no cronograma de entregas mantendo uma ordem das datas da mais próxima até a mais distante
-7. 
+6. O sistema adiciona este envento no cronograma de entregas mantendo uma ordem das datas da mais próxima até a mais distante
+--- 
 #### Fluxos Alternativos
 (caso haja)
 
+---
+
 #### Fluxo de Exceção
-(caso haja)
+No passo principal 5 caso o coordenador não tenha prenchido todos os campos ou tenha preenchido uma data pertencente ao passado ou um evento com o mesmo nome de um atual o sistema não adiciona o evento e mostra uma mensagem explicando o erro
