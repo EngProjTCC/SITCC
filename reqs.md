@@ -136,12 +136,15 @@ c --> UC29
 ## Requisitos não-funcionais
 
 ### RNF01 - O sistema será acessado através de um login e senha cadastrados pelo coordenador;
+Os usuários possuirão um longin e uma senha de uso individual e restrito ao usuário.
 
 ### RNF02 - Dados de acesso do usuário devem ser protegidos
 
 Os dados dos usuários devem ser protegidos para o sistema apresentar uma maior segurança 
 
 ### RNF03 - O sistema possuirá três níveis de acesso, sendo eles aluno, professor e coordenador, com privilégios distintos;
+
+O nível de acesso definirá as permissões de cada usuário, sendo o Coordenador o usuário de maior privilégio no sistema.
 
 ### RNF04 - Uso de Design responsivo para as telas
 
@@ -152,6 +155,8 @@ O sistema deve ser responsivo, ou seja, seus formatos e layouts devem conseguir 
 O sistema deve apresentar compatibilidade com a maioria dos navegadores, reduzindo o número de limitações nos mesmos.
 
 ### RNF06 - O sistema deverá ser prático e simples de usar
+
+O sistema deve ser de fácil uso para qualquer usuário, sem ser necerrário o conhecimento de programação para utilizá-lo.
 
 ## Referências
 
