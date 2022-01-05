@@ -19,6 +19,8 @@ um TCC é adicionado a lista de TCCs concluidos
 #### Fluxos Alternativos
 (caso haja)
 
+---
+
 #### Fluxo de Exceção
 - No passo principal 5 caso o coordenador não tenha prenchido todos os campos obrigatórios e adicionado um arquivo o sistema não adiciona o TCC e mostra uma mensagem explicando o erro
 - No passo pricipal caso o coordenador clique na opção "cancelar" o sistema volta para a lista de TCC sem fazer adicionar nenhum TCC
