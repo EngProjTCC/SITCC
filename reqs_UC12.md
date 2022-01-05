@@ -1,4 +1,4 @@
-### UC12 - (nome)
+### UC12 - Alterar projeto de TCC
 
 #### Pré-condições
 Existir no sistema um projeto de TCC.
@@ -7,7 +7,7 @@ Existir no sistema um projeto de TCC.
 Constará no sistema o projeto de TCC com as modificações feitas;
 
 #### Fluxo Principal
-1. O usuário clica em "Modificar projeto de TCC";
+1. O usuário Professor clica em "Modificar projeto de TCC";
 2. O sistema apresenta uma tela com o campo disponível para o anexo da moficação;
 3. O sistema apresenta uma mensagem de êxito.
 #### Fluxos Alternativos
