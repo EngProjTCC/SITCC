@@ -128,12 +128,15 @@ c --> UC27
 
 ### RNF01 - Dados de acesso do usuário devem ser protegidos
 
-... Segundo ... Nilsen ...
+Os dados dos usuários devem ser protegidos para o sistema apresentar uma maior segurança 
 
 ### RNF02 - Uso de Design responsivo para as telas
 
+O sistema deve ser responsivo, ou seja, seus formatos e layouts devem conseguir responder aos diferentes tamanhos e resoluções de tela disponíveis.
 
 ### RNF03 - Compatibilidade com os navegadores
+
+O sistema deve apresentar compatibilidade com a maioria dos navegadores, reduzindo o número de limitações nos mesmos.
 
 ## Referências
 
