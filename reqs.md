@@ -21,26 +21,25 @@
 ```plantuml
 @startuml
 left to right direction
-actor anônimo as a
-actor usuário as u
+actor anonimo as a
+actor usuario as u
 actor estudante as e
 actor professor as p
 actor coordenador as c
 
 u <|-- e
 u <|-- p
-u <|-- c
 
 package SITCC {
-  usecase "recuperar senha" as UC1
-  usecase "fazer login" as UC2
-  usecase "fazer logoff" as UC3
-  usecase "visualizar TCCs concluidos" as UC4
-  usecase "baixar TCC concluido" as UC5
-  usecase "visualizar orientações do projeto" as UC6
-  usecase "visualizar cronograma de entregas" as UC7
-  usecase "realizar entrega do TCO" as UC8
-  usecase "realizar entrega do pré projeto" as UC9
+  usecase "recuperar senha" as UC01
+  usecase "fazer login" as UC02
+  usecase "fazer logoff" as UC03
+  usecase "visualizar TCCs concluidos" as UC04
+  usecase "baixar TCC concluido" as UC05
+  usecase "visualizar orientações do projeto" as UC06
+  usecase "visualizar cronograma de entregas" as UC07
+  usecase "realizar entrega do TCO" as UC08
+  usecase "realizar entrega do pré projeto" as UC09
   usecase "realizar entrega da monografia" as UC10
   usecase "criar projeto de TCC" as UC11  
   usecase "alterar projeto de TCC" as UC12
@@ -61,15 +60,15 @@ package SITCC {
   usecase "gerar cronograma das bancas" as UC27
   
 }
-a --> UC1
-a --> UC2
-u --> UC3
-u --> UC4
-u --> UC5
-u --> UC6
-u --> UC7
-e --> UC8
-e --> UC9
+a --> UC01
+a --> UC02
+u --> UC03
+u --> UC04
+u --> UC05
+u --> UC06
+u --> UC07
+e --> UC08
+e --> UC09
 e --> UC10
 p --> UC11
 p --> UC12
@@ -78,6 +77,10 @@ p --> UC14
 p --> UC15
 p --> UC16
 p --> UC17
+c --> UC03
+c --> UC04
+c --> UC05
+c --> UC07
 c --> UC17
 c --> UC18
 c --> UC19
