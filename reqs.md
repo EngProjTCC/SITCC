@@ -40,7 +40,7 @@ package SITCC {
   usecase "visualizar cronograma de entregas" as UC07
   usecase "realizar entrega do TCO" as UC08
   usecase "realizar entrega do pré projeto" as UC09
-  usecase "realizar entrega do documento final" as UC10
+  usecase "realizar entrega da monografia" as UC10
   usecase "criar projeto de TCC" as UC11  
   usecase "alterar projeto de TCC" as UC12
   usecase "remover projeto de TCC" as UC13
@@ -126,9 +126,14 @@ c --> UC27
 - [UC_27](reqs_UC27.md)
 ## Requisitos não-funcionais
 
-### Usabilidade
+### RNF01 - Dados de acesso do usuário devem ser protegidos
 
 ... Segundo ... Nilsen ...
+
+### RNF02 - Uso de Design responsivo para as telas
+
+
+### RNF03 - Compatibilidade com os navegadores
 
 ## Referências
 
