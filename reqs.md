@@ -21,6 +21,8 @@
 ```plantuml
 @startuml
 left to right direction
+
+actor servidoremail as s
 actor anonimo as a
 actor usuario as u
 actor estudante as e
@@ -62,6 +64,7 @@ package SITCC {
   usecase "gerar cronograma das bancas" as UC29
   
 }
+UC01 <-- s
 a --> UC01
 a --> UC02
 u --> UC03
