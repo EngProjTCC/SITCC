@@ -51,7 +51,7 @@ package SITCC {
   usecase "remover orientação de projeto" as UC16
   usecase "visualizar lista de usuários" as UC17
   usecase "adicionar usuário" as UC18
-  usecase "alterar usuário" as UC19
+  usecase "alterar informações do usuário" as UC19
   usecase "remover usuário" as UC20
   usecase "adicionar cronograma de entregas" as UC21
   usecase "alterar cronograma de entregas" as UC22
