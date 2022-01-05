@@ -94,6 +94,8 @@ c --> UC24
 c --> UC25
 c --> UC26
 c --> UC27
+c --> UC28
+c --> UC29
 @enduml
 ```
 
