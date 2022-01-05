@@ -1,4 +1,4 @@
-### UC16 - (nome)
+### UC16 - Remover Orientação de Projeto
 
 #### Pré-condições
 Existir um projeto com orientação registrada.
