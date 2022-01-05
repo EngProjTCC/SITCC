@@ -1,4 +1,4 @@
-### UC13 - (nome)
+### UC13 - Remover Projeto de TCC
 
 #### Pré-condições
 Existir no sistema um projeto de TCC.
@@ -7,7 +7,7 @@ Existir no sistema um projeto de TCC.
 Não constará no sistema o projeto de TCC associado ao usuário em questão;
 
 #### Fluxo Principal
-1. O usuário clica em "Remover projeto de TCC";
+1. O usuário Professor clica em "Remover projeto de TCC";
 2. O sistema seleciona o projeto de TCC;
 3. O sistema apresenta uma mensagem de êxito;
 
