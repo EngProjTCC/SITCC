@@ -5,9 +5,9 @@ estar registrado no sistema
 #### Pós-condição
 uma mensagem avisando que o link para redefinição foi enviado é gerada e o sistema volta para a tela de login
 #### Fluxo Principal
-1-O anônimo seleciona a opção "recuperar senha";
-2-O sistema carrega uma página com um campo "email" para ser preenchido;
-3-O sistema envia um link para redefinir a senha ao email provido
+- O anônimo seleciona a opção "recuperar senha";
+- O sistema carrega uma página com um campo "email" para ser preenchido;
+- O sistema envia um link para redefinir a senha ao email provido
 #### Fluxos Alternativos
 (caso haja)
 
