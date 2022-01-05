@@ -126,17 +126,23 @@ c --> UC27
 - [UC_27](reqs_UC27.md)
 ## Requisitos não-funcionais
 
-### RNF01 - Dados de acesso do usuário devem ser protegidos
+### RNF01 - O sistema será acessado através de um login e senha cadastrados pelo coordenador;
+
+### RNF02 - Dados de acesso do usuário devem ser protegidos
 
 Os dados dos usuários devem ser protegidos para o sistema apresentar uma maior segurança 
 
-### RNF02 - Uso de Design responsivo para as telas
+### RNF03 - O sistema possuirá três níveis de acesso, sendo eles aluno, professor e coordenador, com privilégios distintos;
+
+### RNF04 - Uso de Design responsivo para as telas
 
 O sistema deve ser responsivo, ou seja, seus formatos e layouts devem conseguir responder aos diferentes tamanhos e resoluções de tela disponíveis.
 
-### RNF03 - Compatibilidade com os navegadores
+### RNF05 - Compatibilidade com os navegadores
 
 O sistema deve apresentar compatibilidade com a maioria dos navegadores, reduzindo o número de limitações nos mesmos.
+
+### RNF06 - O sistema deverá ser prático e simples de usar
 
 ## Referências
 
