@@ -2,7 +2,6 @@
 ---
 #### Pré-condições
 Ser coordenador estar no inicio de um período
-
 ---
 #### Pós-condição
 
