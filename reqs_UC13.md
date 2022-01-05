@@ -4,7 +4,7 @@
 Existir no sistema um projeto de TCC.
 
 #### Pós-condição
-Não constará no sistema o projeto de TCC associado ao usuário em questão;
+Não constará no sistema o projeto de TCC removido;
 
 #### Fluxo Principal
 1. O usuário Professor clica em "Remover projeto de TCC";
