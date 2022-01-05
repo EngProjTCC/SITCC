@@ -2,11 +2,14 @@
 
 #### Pré-condições
 Ter selecionado o botão "lista de TCCs concluidos"
+
 #### Pós-condição
+O usuário/coordenador acaba com o arquivo do TCC na sua máquina
 
 #### Fluxo Principal
 1. O usuário/coordenador clicka na opção que sinaliza dowload que se encontra ao lado de todos itens na lista de TCCs concluidos;
-2. O sistema instala o arquivo do TCC selecionado no aparelho do usuário/coordenador
+2. O sistema instala o arquivo do TCC selecionado no aparelho do usuário/coordenador.
+
 #### Fluxos Alternativos
 (caso haja)
 
