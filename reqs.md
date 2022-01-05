@@ -54,10 +54,12 @@ package SITCC {
   usecase "adicionar cronograma de entregas" as UC21
   usecase "alterar cronograma de entregas" as UC22
   usecase "adicionar TCC concluido" as UC23
-  usecase "gerar ata de banca" as UC24
-  usecase "gerar certificado dos professores" as UC25
-  usecase "gerar folha de aprovação de trabalho" as UC26
-  usecase "gerar cronograma das bancas" as UC27
+  usecase "alterar TCC concluido" as UC24
+  usecase "remover TCC concluido" as UC25
+  usecase "gerar ata de banca" as UC26
+  usecase "gerar certificado dos professores" as UC27
+  usecase "gerar folha de aprovação de trabalho" as UC28
+  usecase "gerar cronograma das bancas" as UC29
   
 }
 a --> UC01
@@ -124,6 +126,8 @@ c --> UC27
 - [UC_25](reqs_UC25.md)
 - [UC_26](reqs_UC26.md)
 - [UC_27](reqs_UC27.md)
+- [UC_28](reqs_UC28.md)
+- [UC_29](reqs_UC29.md)
 ## Requisitos não-funcionais
 
 ### RNF01 - O sistema será acessado através de um login e senha cadastrados pelo coordenador;
