@@ -22,4 +22,5 @@ um evento é adicionado a lista de cronograms de entrega
 ---
 
 #### Fluxo de Exceção
-No passo principal 5 caso o coordenador não tenha prenchido todos os campos ou tenha preenchido uma data pertencente ao passado ou um evento com o mesmo nome de um atual o sistema não adiciona o evento e mostra uma mensagem explicando o erro
+- No passo principal 5 caso o coordenador não tenha prenchido todos os campos ou tenha preenchido uma data pertencente ao passado ou um evento com o mesmo nome de um atual o sistema não adiciona o evento e mostra uma mensagem explicando o erro
+- No passo pricipal caso o coordenador clique na opção "cancelar" o sistema fecha o pop-up sem fazer nenhuma mudança na lista de cronogramas
