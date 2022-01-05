@@ -4,7 +4,7 @@
 estar logado como estudante
 
 #### Pós-condição
- sistema obtem o arquivo que o estudante escolheu para ser o pré projeto
+ sistema obtem o arquivo que o estudante escolheu para ser o pré-projeto
 
 #### Fluxo Principal
 1. Na tela inicial o estudante seleciona o botão de "entregas";
