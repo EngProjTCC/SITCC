@@ -1,18 +1,23 @@
-### UC19 - (nome)
+### UC19 - Alterar Informações do Usuário
 
+---
 #### Pré-condições
 O usuário deve está logado como Coordenador;
 
+---
 #### Pós-condição
-O sistema mostrará uma mensagem informando o êxito na operação e exibirar a lista de usuários do sistema;
+Constará no sistema as alterações feitas nas informações de determinado usuário;
 
+---
 #### Fluxo Principal
-1. O sistema exibirá um campo para inserir as informações do usuário a ser excluído;
+1. O sistema exibirá um campo para fazer as alterações nos dados de um determinado usuário;
 2. O Coordenador insere as informações;
 3. O sistema apresentará uma mensagem de êxito
 
+---
 #### Fluxos Alternativos
 (caso haja)
 
+---
 #### Fluxo de Exceção
-Caso o usuário não exista, o sistema presentará uma aviso informando a situação ao Coordenador.
+Caso a alteração não seja registrada, o sistema presentará uma aviso informando a situação ao Coordenador.
