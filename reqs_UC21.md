@@ -5,7 +5,9 @@ Ser coordenador estar na visualização de cronogramas de entrega
 
 ---
 #### Pós-condição
+um evento é adicionado a lista de cronograms de entrega
 
+---
 #### Fluxo Principal
 1. Na tela inicial o coordenador clicka na opção "cronograma de entregas";
 2. O sistema carrega a página com o cronograma de entregas atual e com as opções "alterar cronograma" ao lado de cada cronograma criado e de  "adcionar cronograma" abaixo dos cronogramas;
