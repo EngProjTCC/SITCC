@@ -1,4 +1,4 @@
-### UC15 - (nome)
+### UC15 - Alterar Orientação de Projeto
 
 #### Pré-condições
 Existir um projeto com orientação anexada
