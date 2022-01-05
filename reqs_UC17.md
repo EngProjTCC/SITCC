@@ -1,4 +1,4 @@
-### UC17 - (nome)
+### UC17 - Visualizar Lista de Usuários
 
 #### Pré-condições
 Existir usuários registrados no sistema.
