@@ -156,9 +156,9 @@ c --> UC29
 ## Referências
 
 [1] Nishi, Fernando Massao Franzin
-REQUISITOS REQUISITOS DE REQUISITOS DE SOFTWARE: REQUISITOS DE SOFTWARE: PROPOSTA, REQUISITOS DE SOFTWARE: PROPOSTA, ESPECIFICAÇÃO REQUISITOS DE SOFTWARE: PROPOSTA, ESPECIFICAÇÃO E
-OTIMIZAÇÃO OTIMIZAÇÃO DE OTIMIZAÇÃO DE UM OTIMIZAÇÃO DE UM METAFRAMEWORK OTIMIZAÇÃO DE UM METAFRAMEWORK PARA OTIMIZAÇÃO DE UM METAFRAMEWORK PARA A OTIMIZAÇÃO DE UM METAFRAMEWORK PARA A DOCUMENTAÇÃO OTIMIZAÇÃO DE UM METAFRAMEWORK PARA A DOCUMENTAÇÃO / OTIMIZAÇÃO DE UM METAFRAMEWORK PARA A DOCUMENTAÇÃO / Fernando
-Massao Franzin Massao Franzin Nishi Massao Franzin Nishi ; Massao Franzin Nishi ; orientação Massao Franzin Nishi ; orientação de Massao Franzin Nishi ; orientação de Cleverson Massao Franzin Nishi ; orientação de Cleverson Tabajara
+REQUISITOS DE SOFTWARE: PROPOSTA, ESPECIFICAÇÃO E
+OTIMIZAÇÃO DE UM METAFRAMEWORK PARA A DOCUMENTAÇÃO / Fernando
+Massao Franzin hi Massao Franzin Nishi ; Massao Franzin Nishi ; orientação Massao Franzin Nishi ; orientação de Massao Franzin Nishi ; orientação de Cleverson Massao Franzin Nishi ; orientação de Cleverson Tabajara
 Vianna; Vianna; coorientação Vianna; coorientação de Vianna; coorientação de Underléa Vianna; coorientação de Underléa Cabreira
 Corrêa. Corrêa. - Corrêa. - Florianópolis, Corrêa. - Florianópolis, SC, Corrêa. - Florianópolis, SC, 2019.
 123 p.
