@@ -158,14 +158,24 @@ c --> UC29
 [1] Nishi, Fernando Massao Franzin
 REQUISITOS DE SOFTWARE: PROPOSTA, ESPECIFICAÇÃO E
 OTIMIZAÇÃO DE UM METAFRAMEWORK PARA A DOCUMENTAÇÃO / Fernando
-Massao Franzin hi Massao Franzin Nishi ; Massao Franzin Nishi ; orientação Massao Franzin Nishi ; orientação de Massao Franzin Nishi ; orientação de Cleverson Massao Franzin Nishi ; orientação de Cleverson Tabajara
-Vianna; Vianna; coorientação Vianna; coorientação de Vianna; coorientação de Underléa Vianna; coorientação de Underléa Cabreira
-Corrêa. Corrêa. - Corrêa. - Florianópolis, Corrêa. - Florianópolis, SC, Corrêa. - Florianópolis, SC, 2019.
+Massao Franzin Nishi ; orientação de Cleverson Tabajara Vianna; coorientação de Underléa Cabreira
+Corrêa. - Florianópolis, SC, 2019.
 123 p.
 
 
-[2] Ian Somerville ...
+[2] DE ESTEFANI, JONATHAN DA SILVA
+DESENVOLVIMENTO DE UM PROTÓTIPO DE UM SISTEMA \\ WEB
+PARA GESTÃO DE TRABALHOS ACADÊMICOS / JONATHAN DA SILVA DE
+ESTEFANI ; orientador, Dr. Vilson Gruber, 2019.
+144 p.
 
-[3] Angular ...
 
-[4] PlantUML ...
+[3] HOFFMANN ROCHA DUARTE DE OLIVEIRA, Barbara. Controle do Trabalho de
+Conclusão de Curso para o Departamento Acadêmico de Informática da
+UTFPR. 2018. 48 f. Trabalho de Conclusão de Curso (Tecnologia em Análise e
+Desenvolvimento de Sistemas) - Universidade Tecnológica Federal do Paraná.
+Ponta Grossa, 2018.
+
+[4] https://aprepro.org.br/conbrepro/2020/anais/arquivos/09242020_170933_5f6d00bde478a.pdf
+
+[5] https://repositorio.ufu.br/bitstream/123456789/19409/1/ProjetoDesenvolvimentoSistema.pdf
