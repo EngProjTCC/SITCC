@@ -1,0 +1,43 @@
+<div fxLayout="row" fxLayoutAlign="center start">
+    <div style="margin: 0.5%; margin-left: 8%;">
+        
+        <mat-card class="example-card" style="margin-top: 5em;" >
+
+            <form class="example-form">
+
+                <div class="text-center">
+                  <i class="fas fa-user-lock fa-4x" style="color: #3f51b5;"></i>
+                  <h2 style="margin-top: 10%;">Sistema de TCC POLI </h2>
+                </div>
+
+                <div class="input-field col s12" style="color: aliceblue;">
+
+                    <mat-form-field class="example-full-width" appearance="fill">
+                      <label class="active" for="usuario">Usuário</label>
+                      <input [(ngModel)]="usuario.nome" id="usuario" type="text" class="validate" [ngModelOptions]="{standalone: true}">
+                    </mat-form-field>
+
+                </div>
+
+                <div class="input-field col s12" style="color: aliceblue; margin-top: -15%;">
+                
+                    <mat-form-field class="example-full-width" appearance="fill">
+                      <label class="active" for="senha">Senha</label>
+                      <input [(ngModel)]="usuario.senha" id="senha" type="password" class="validate" [ngModelOptions]="{standalone: true}">
+                    </mat-form-field>
+
+                </div>
+
+                    <div class="input-field col s12" style="margin-top: -10%;">
+                        <button mat-raised-button color="primary" style="width: 100%;" type="submit" name="action" (click)="fazerLogin()">Login
+                          <i class="material-icons right">send</i>
+                        </button>
+                  </div>
+
+              </form>
+
+        </mat-card>
+          
+    </div>
+
+</div>
